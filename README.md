@@ -4,4 +4,7 @@ Machine learning course homeworks
 
 Fall 2023 - University of Tehran
 
-Dr. B. Najar Arabi, Dr. A. Dehaqani, Dr. Tavassolipour
+Professors: 
+- Dr. B. Najar Arabi,
+- Dr. A. Dehaqani,
+- Dr. Tavassolipour
