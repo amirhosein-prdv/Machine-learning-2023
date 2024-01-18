@@ -26,3 +26,8 @@ Professors:
 ### HW 4
 - Neural Networks
 - Decision tree
+### HW 5
+- Fisher linear discriminant
+- Linear Discriminant Analysis (LDA)
+- Principal Component Analysis (PCA)
+- K-Means Clustring
