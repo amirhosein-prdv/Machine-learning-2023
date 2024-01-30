@@ -31,3 +31,4 @@ Professors:
 - Linear Discriminant Analysis (LDA)
 - Principal Component Analysis (PCA)
 - K-Means Clustring
+- Image compressing
